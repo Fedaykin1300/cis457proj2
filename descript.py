@@ -35,5 +35,5 @@ def listJson():
 	print(json.dumps(json_dic,indent=4))
 
 if __name__ == "__main__":
-	#createJson()
-	listJson()
+	createJson()
+	#listJson()
